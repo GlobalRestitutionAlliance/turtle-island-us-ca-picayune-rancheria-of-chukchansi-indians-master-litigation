@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+PICAYUNE+RANCHERIA+OF+CHUKCHANSI+INDIANS",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+PICAYUNE+RANCHERIA+OF+CHUKCHANSI+INDIANS",
+  "title": "Federal Register - CA PICAYUNE RANCHERIA OF CHUKCHANSI INDIANS",
+  "fetched_at": "2026-11-23T17:59:37.764926Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 273393,
+  "sha256": "48b1ac7256b2a18a8911de36024d141f6f6e58ac0542b4da2f34fa1252829f74",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
